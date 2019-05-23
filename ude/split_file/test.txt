@@ -1,0 +1,4 @@
+Name,payment,Date
+Issac,78.45,325435435
+Albert,54.76,4546547654
+carl,66.3,046566
